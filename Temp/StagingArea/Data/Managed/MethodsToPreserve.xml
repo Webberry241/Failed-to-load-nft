@@ -1,0 +1,9 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Prefab_ConnectWallet">
+			<method name="OnClickDropdown"/>
+			<method name="OnClickNetworkSwitch"/>
+			<method name="OnDisconnect"/>
+		</type>
+	</assembly>
+</linker>
